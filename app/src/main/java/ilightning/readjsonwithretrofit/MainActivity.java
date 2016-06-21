@@ -15,5 +15,9 @@ public class MainActivity extends AppCompatActivity {
         LoadFlower loadFlower = new LoadFlower(this);
         loadFlower.execute();
         Log.d("HoangTV", "onCreate()");
+        Log.d("HoangTV", "onCreate()");
+        Log.d("HoangTV", "onCreate()");
+        Log.d("HoangTV", "onCreate()");
     }
 }
+
