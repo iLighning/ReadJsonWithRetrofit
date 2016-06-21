@@ -18,6 +18,7 @@ public class MainActivity extends AppCompatActivity {
         Log.d("HoangTV", "onCreate()");
         Log.d("HoangTV", "onCreate()");
         Log.d("HoangTV", "onCreate()");
+        Log.d("HoangTV", "onCreate()");
     }
 }
 
